@@ -1,0 +1,6 @@
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\obj\Debug\aigussesnumbers.csproj.AssemblyReference.cache
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\obj\Debug\aigussesnumbers.csproj.CoreCompileInputs.cache
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\bin\Debug\ai guesses numbers.exe
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\bin\Debug\ai guesses numbers.pdb
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\obj\Debug\ai guesses numbers.exe
+C:\Users\hyneks pc\source\repos\aigussesnumbers\aigussesnumbers\obj\Debug\ai guesses numbers.pdb
